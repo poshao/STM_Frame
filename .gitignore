@@ -1,3 +1,34 @@
+<<<<<<< HEAD
 /Objects/
 /Listings/
 /DebugConfig/
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> e493dcffea119ffe958cda6ef9c77727f5197e01
